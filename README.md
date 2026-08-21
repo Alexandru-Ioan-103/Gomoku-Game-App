@@ -2,7 +2,7 @@
 
 A Python-based implementation of the classic Gomoku board game, built using the Pygame library. This project features both local PvP and a PvE mode against a custom-built AI.
 
-**Developer Note:** This project was primarily an exercise in algorithmic thinking and working with graphical loops in Python. It lacks a strict Object-Oriented Programming (OOP) architecture, which I acknowledge as technical debt. It serves as a great learning milestone before transitioning to strictly typed, OOP-focused languages like C#.
+**Developer Note:** This project was primarily an exercise in algorithmic thinking and working with graphical loops in Python. It lacks a strict Object-Oriented Programming (OOP) architecture, which I acknowledge as technical debt. It serves as a learning milestone and a medium for trying python before transitioning to OOP-focused projects in C#.
 
 ## Technologies Used
 * **Language:** Python
